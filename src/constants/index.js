@@ -261,3 +261,5 @@ export const achievements = [];
 export const extraCurricular = [];
 export const blogPosts = [];
 export const stats = [];
+export const itemsToFetch = 20; // Default value (not used in your case)
+export const includedRepos = []; // Empty array since you removed open source section
