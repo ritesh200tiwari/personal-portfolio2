@@ -89,7 +89,7 @@ import {
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
-import { AiFillLinkedin, AiFillMail } from "react-icons/ai";
+
 import { SiLeetcode } from "react-icons/si";
 
 // ... Keep necessary imports (remove unused icons)
